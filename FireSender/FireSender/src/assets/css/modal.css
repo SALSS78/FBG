@@ -1,0 +1,118 @@
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+.bg-transparent-light{
+    background-color: rgba(0, 0, 0, 0.541); /* Semi-transparent black overlay */
+}
+
+@media(prefers-color-scheme:dark){
+    .dark\:bg-transparent-dark{
+        background-color: rgba(255, 255, 255, 0.087);
+    }
+}
+
+  
+  .modal {
+    padding: .1rem;
+    border-radius: .75rem;
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.2);
+    max-width: 80%;
+    min-width: 750px;
+  }
+  
+  .modal-close-button {
+    border: none;
+    cursor: pointer;
+    font-size: 15px;
+    min-width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    box-shadow: 0 0 7px rgba(0, 0, 0, 0.2);
+  }
+  
+  .modal-content {
+    margin: 1rem;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  /* input[type="text"] {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  } */
+
+  .steps{
+    display: inline-flex;
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+  .step{
+    width: 100%;
+    display: grid;
+    justify-items: center;
+    margin: 0 .2rem;
+  }
+  .step span{
+    height: 3px;
+    border-radius: 50rem;
+    width: 100%;
+    background: #eaeaea;
+    display: inline-grid;
+    justify-content: center;
+    justify-items: center;
+  }
+  .step.active span{
+    background: #ffbf00;
+  }
+  .step span p{
+    background: #eaeaea;
+    width: 24px;
+    position: relative;
+    margin-top: -12px;
+    height: 24px;
+    border-radius: 50%;
+    display: inline-grid;
+    justify-items: center;
+    align-items: center;
+    color: #898989;
+    border-width: 3px;
+  }
+  .step.active span p{
+    background: rgb(255 191 0);
+    width: 24px;
+    position: relative;
+    margin-top: -12px;
+    height: 24px;
+    border-radius: 50%;
+    display: inline-grid;
+    justify-items: center;
+    align-items: center;
+    color: #000;
+    border-width: 3px;
+  }
+  .step h2{
+    margin-bottom: 1.5rem;
+  }
+  .step.active h2{
+    margin-bottom: 1.5rem;
+  }
+
+  .modal button{
+    box-shadow: 0 0 11px rgba(0, 0, 0, 0.178);
+  }
+  
+  /* Add more specific styling as needed */

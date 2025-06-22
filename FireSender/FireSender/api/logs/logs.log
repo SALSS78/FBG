@@ -1,0 +1,1082 @@
+2024-03-23T17:25:09.618Z - INFO - GET /servers hit ip: ::1
+2024-03-23T17:25:09.629Z - INFO - GET /servers hit ip: ::1
+2024-03-23T17:25:20.738Z - INFO - POST /server hit ip: ::1
+2024-03-23T17:25:20.762Z - INFO - GET /servers hit ip: ::1
+2024-03-23T17:26:00.553Z - INFO - GET /emails hit ip: ::1
+2024-03-23T17:26:02.537Z - INFO - GET /emails hit ip: ::1
+2024-03-23T17:26:06.011Z - INFO - GET /emails hit ip: ::1
+2024-03-23T17:26:11.116Z - INFO - GET /emails hit ip: ::1
+2024-03-23T17:26:12.233Z - INFO - GET /emails hit ip: ::1
+2024-03-23T17:26:13.408Z - INFO - GET /emails hit ip: ::1
+2024-03-23T17:26:15.232Z - INFO - GET /emails hit ip: ::1
+2024-03-23T17:26:36.636Z - INFO - GET /servers hit ip: ::1
+2024-03-23T17:26:36.643Z - INFO - GET /servers hit ip: ::1
+2024-03-23T17:27:26.776Z - INFO - GET /servers hit ip: ::1
+2024-03-23T17:27:26.784Z - INFO - GET /servers hit ip: ::1
+2024-03-23T17:38:31.120Z - INFO - GET /servers hit ip: ::1
+2024-03-26T15:16:24.781Z - INFO - GET /servers hit ip: ::1
+2024-03-26T15:16:24.793Z - INFO - GET /servers hit ip: ::1
+2024-03-26T15:21:18.837Z - INFO - GET /servers hit ip: ::1
+2024-03-26T15:21:18.853Z - INFO - GET /servers hit ip: ::1
+2024-03-26T15:21:50.819Z - INFO - DELETE /server hit ip: ::1
+2024-03-26T15:21:50.840Z - INFO - GET /servers hit ip: ::1
+2024-03-26T15:28:38.435Z - INFO - POST /server hit ip: ::1
+2024-03-26T15:28:38.456Z - INFO - GET /servers hit ip: ::1
+2024-03-26T15:28:47.099Z - INFO - GET /emails hit ip: ::1
+2024-03-26T15:29:19.367Z - INFO - GET /emails hit ip: ::1
+2024-03-26T15:29:21.200Z - INFO - GET /emails hit ip: ::1
+2024-03-26T15:29:45.741Z - INFO - POST /emails/clear server hit ip: ::1
+2024-03-26T15:29:45.752Z - INFO - GET /emails hit ip: ::1
+2024-03-26T15:30:01.316Z - INFO - GET /emails hit ip: ::1
+2024-03-26T15:30:05.658Z - INFO - GET /emails hit ip: ::1
+2024-03-26T15:30:06.683Z - INFO - GET /emails hit ip: ::1
+2024-03-26T15:30:15.037Z - INFO - POST /send hit ip: ::1  SERVER ID: 12e76658-59ae-44e9-888a-ae593910177f USER ID: [object Object]
+2024-03-26T15:31:48.244Z - INFO - POST /send hit ip: ::1  SERVER ID: 12e76658-59ae-44e9-888a-ae593910177f USER ID: [object Object]
+2024-03-26T15:32:35.061Z - INFO - POST /send hit ip: ::1  SERVER ID: 12e76658-59ae-44e9-888a-ae593910177f USER ID: [object Object]
+2024-03-26T15:35:10.253Z - INFO - POST /server hit ip: ::1
+2024-03-26T15:35:10.269Z - INFO - GET /servers hit ip: ::1
+2024-03-26T15:35:14.548Z - INFO - GET /emails hit ip: ::1
+2024-03-26T15:35:22.938Z - INFO - POST /emails/clear server hit ip: ::1
+2024-03-26T15:35:22.957Z - INFO - GET /emails hit ip: ::1
+2024-03-26T15:35:29.717Z - INFO - GET /emails hit ip: ::1
+2024-03-26T15:35:31.979Z - INFO - GET /emails hit ip: ::1
+2024-03-26T15:35:47.921Z - INFO - GET /emails hit ip: ::1
+2024-03-26T15:35:51.784Z - INFO - GET /emails hit ip: ::1
+2024-03-26T15:35:52.798Z - INFO - GET /emails hit ip: ::1
+2024-03-26T15:35:57.776Z - INFO - POST /send hit ip: ::1  SERVER ID: fe82c173-8a69-4a63-b495-9f086d8cc8df USER ID: [object Object]
+2024-03-26T15:37:44.561Z - INFO - POST /server hit ip: ::1
+2024-03-26T15:37:44.586Z - INFO - GET /servers hit ip: ::1
+2024-03-26T15:37:49.892Z - INFO - GET /emails hit ip: ::1
+2024-03-26T15:37:51.839Z - INFO - GET /emails hit ip: ::1
+2024-03-26T15:37:56.035Z - INFO - GET /emails hit ip: ::1
+2024-03-26T15:37:58.692Z - INFO - GET /emails hit ip: ::1
+2024-03-26T15:38:15.202Z - INFO - GET /emails hit ip: ::1
+2024-03-26T15:47:44.853Z - INFO - POST /server hit ip: ::1
+2024-03-26T15:47:44.863Z - INFO - GET /servers hit ip: ::1
+2024-03-26T15:49:41.980Z - INFO - POST /server hit ip: ::1
+2024-03-26T15:49:42.006Z - INFO - GET /servers hit ip: ::1
+2024-03-26T15:50:03.494Z - INFO - GET /servers hit ip: ::1
+2024-03-26T15:50:08.392Z - INFO - GET /emails hit ip: ::1
+2024-03-26T15:50:55.007Z - INFO - DELETE /server hit ip: ::1
+2024-03-26T15:50:55.021Z - INFO - GET /servers hit ip: ::1
+2024-03-26T15:52:36.097Z - INFO - POST /server hit ip: ::1
+2024-03-26T15:52:36.108Z - INFO - GET /servers hit ip: ::1
+2024-03-26T15:54:15.648Z - INFO - POST /server hit ip: ::1
+2024-03-26T15:54:15.655Z - INFO - GET /servers hit ip: ::1
+2024-03-26T16:33:13.688Z - INFO - DELETE /server hit ip: ::1
+2024-03-26T16:33:13.696Z - INFO - GET /servers hit ip: ::1
+2024-03-26T16:36:16.929Z - INFO - POST /server hit ip: ::1
+2024-03-26T16:36:16.951Z - INFO - GET /servers hit ip: ::1
+2024-03-26T16:36:29.165Z - INFO - GET /emails hit ip: ::1
+2024-03-26T16:37:06.252Z - INFO - GET /emails hit ip: ::1
+2024-03-26T16:37:07.252Z - INFO - GET /emails hit ip: ::1
+2024-03-26T16:37:33.299Z - INFO - POST /send hit ip: ::1  SERVER ID: c6fcbfc6-20f9-43a0-b7c2-190d7dd30e66 USER ID: [object Object]
+2024-03-26T16:47:32.723Z - INFO - POST /send hit ip: ::1  SERVER ID: c6fcbfc6-20f9-43a0-b7c2-190d7dd30e66 USER ID: [object Object]
+2024-03-26T16:57:19.073Z - INFO - POST /send hit ip: ::1  SERVER ID: c6fcbfc6-20f9-43a0-b7c2-190d7dd30e66 USER ID: [object Object]
+2024-03-29T16:14:51.329Z - INFO - GET /servers hit ip: ::1
+2024-03-29T16:14:51.361Z - INFO - GET /servers hit ip: ::1
+2024-03-30T15:31:45.322Z - INFO - GET /servers hit ip: ::1
+2024-03-30T15:31:45.338Z - INFO - GET /servers hit ip: ::1
+2024-03-30T15:55:00.635Z - INFO - GET /servers hit ip: ::1
+2024-03-30T15:55:00.732Z - INFO - GET /servers hit ip: ::1
+2024-03-31T13:34:13.224Z - INFO - GET /servers hit ip: ::1
+2024-03-31T13:34:13.254Z - INFO - GET /servers hit ip: ::1
+2024-03-31T13:34:16.676Z - INFO - GET /servers hit ip: ::1
+2024-03-31T13:34:16.684Z - INFO - GET /servers hit ip: ::1
+2024-03-31T13:36:20.017Z - INFO - POST /server hit ip: ::1
+2024-03-31T13:36:20.067Z - INFO - GET /servers hit ip: ::1
+2024-03-31T13:36:21.776Z - INFO - GET /emails hit ip: ::1
+2024-03-31T13:50:22.273Z - INFO - GET /emails hit ip: ::1
+2024-03-31T13:51:46.842Z - INFO - POST /send hit ip: ::1  SERVER ID: 61fbf3bb-90b7-452e-9411-210f96202ac2 USER ID: [object Object]
+2024-03-31T14:02:09.983Z - INFO - POST /emails/clear server hit ip: ::1
+2024-03-31T14:02:10.020Z - INFO - GET /emails hit ip: ::1
+2024-03-31T14:02:12.530Z - INFO - GET /emails hit ip: ::1
+2024-03-31T14:02:14.594Z - INFO - POST /emails/clear server hit ip: ::1
+2024-03-31T14:02:14.620Z - INFO - GET /emails hit ip: ::1
+2024-03-31T14:02:20.848Z - INFO - GET /servers hit ip: ::1
+2024-03-31T14:02:20.859Z - INFO - GET /servers hit ip: ::1
+2024-03-31T14:02:21.648Z - INFO - GET /servers hit ip: ::1
+2024-03-31T14:02:21.658Z - INFO - GET /servers hit ip: ::1
+2024-03-31T14:02:41.440Z - INFO - GET /emails hit ip: ::1
+2024-03-31T14:02:53.903Z - INFO - POST /send hit ip: ::1  SERVER ID: 61fbf3bb-90b7-452e-9411-210f96202ac2 USER ID: [object Object]
+2024-03-31T14:03:55.868Z - INFO - POST /emails/clear server hit ip: ::1
+2024-03-31T14:03:55.909Z - INFO - GET /emails hit ip: ::1
+2024-03-31T14:13:45.236Z - INFO - GET /emails hit ip: ::1
+2024-03-31T14:13:46.821Z - INFO - POST /emails/clear server hit ip: ::1
+2024-03-31T14:13:46.845Z - INFO - GET /emails hit ip: ::1
+2024-03-31T14:13:53.230Z - INFO - GET /servers hit ip: ::1
+2024-03-31T14:13:53.239Z - INFO - GET /servers hit ip: ::1
+2024-03-31T14:14:28.017Z - INFO - GET /emails hit ip: ::1
+2024-03-31T14:14:43.642Z - INFO - POST /send hit ip: ::1  SERVER ID: 61fbf3bb-90b7-452e-9411-210f96202ac2 USER ID: [object Object]
+2024-03-31T14:15:20.529Z - INFO - GET /servers hit ip: ::1
+2024-03-31T14:15:20.538Z - INFO - GET /servers hit ip: ::1
+2024-03-31T14:15:30.592Z - INFO - GET /emails hit ip: ::1
+2024-03-31T14:15:33.996Z - INFO - POST /emails/clear server hit ip: ::1
+2024-03-31T14:15:34.020Z - INFO - GET /emails hit ip: ::1
+2024-03-31T14:16:13.618Z - INFO - GET /emails hit ip: ::1
+2024-03-31T14:16:20.535Z - INFO - POST /send hit ip: ::1  SERVER ID: 61fbf3bb-90b7-452e-9411-210f96202ac2 USER ID: [object Object]
+2024-03-31T14:16:39.858Z - INFO - GET /servers hit ip: ::1
+2024-03-31T14:16:39.869Z - INFO - GET /servers hit ip: ::1
+2024-03-31T14:16:42.063Z - INFO - GET /emails hit ip: ::1
+2024-03-31T14:16:43.429Z - INFO - POST /emails/clear server hit ip: ::1
+2024-03-31T14:16:43.447Z - INFO - GET /emails hit ip: ::1
+2024-03-31T14:16:51.777Z - INFO - GET /emails hit ip: ::1
+2024-03-31T14:16:52.607Z - INFO - GET /emails hit ip: ::1
+2024-03-31T14:17:08.169Z - INFO - POST /send hit ip: ::1  SERVER ID: 61fbf3bb-90b7-452e-9411-210f96202ac2 USER ID: [object Object]
+2024-03-31T14:17:25.532Z - INFO - GET /servers hit ip: ::1
+2024-03-31T14:17:25.543Z - INFO - GET /servers hit ip: ::1
+2024-03-31T14:19:53.094Z - INFO - GET /emails hit ip: ::1
+2024-03-31T14:19:56.025Z - INFO - POST /emails/clear server hit ip: ::1
+2024-03-31T14:19:56.045Z - INFO - GET /emails hit ip: ::1
+2024-03-31T15:01:01.230Z - INFO - GET /servers hit ip: ::1
+2024-03-31T15:01:01.241Z - INFO - GET /servers hit ip: ::1
+2024-03-31T15:03:44.292Z - INFO - GET /emails hit ip: ::1
+2024-03-31T15:03:57.086Z - INFO - GET /emails hit ip: ::1
+2024-03-31T15:04:00.741Z - INFO - DELETE /server hit ip: ::1
+2024-03-31T15:04:00.754Z - INFO - GET /servers hit ip: ::1
+2024-04-02T15:34:22.731Z - INFO - GET /servers hit ip: ::ffff:127.0.0.1
+2024-04-02T15:34:22.807Z - INFO - GET /servers hit ip: ::1
+2024-04-02T15:34:31.519Z - INFO - GET /emails hit ip: ::1
+2024-04-02T15:34:35.077Z - INFO - GET /emails hit ip: ::1
+2024-04-02T15:34:37.420Z - INFO - GET /emails hit ip: ::1
+2024-04-02T15:34:38.664Z - INFO - GET /emails hit ip: ::1
+2024-04-02T15:34:39.558Z - INFO - GET /emails hit ip: ::1
+2024-04-02T15:34:40.603Z - INFO - GET /emails hit ip: ::1
+2024-04-02T15:34:44.246Z - INFO - GET /emails hit ip: ::1
+2024-04-02T15:34:47.364Z - INFO - POST /emails/clear server hit ip: ::1
+2024-04-02T15:34:47.418Z - INFO - GET /emails hit ip: ::1
+2024-04-02T15:47:03.485Z - INFO - GET /emails hit ip: ::1
+2024-04-02T16:23:45.449Z - INFO - GET /emails hit ip: ::1
+2024-04-02T16:24:35.623Z - INFO - GET /emails hit ip: ::1
+2024-04-02T16:24:38.998Z - INFO - GET /servers hit ip: ::1
+2024-04-02T16:24:39.102Z - INFO - GET /servers hit ip: ::1
+2024-04-02T16:27:43.119Z - INFO - GET /emails hit ip: ::1
+2024-04-02T16:29:43.179Z - INFO - GET /servers hit ip: ::1
+2024-04-02T16:29:43.271Z - INFO - GET /servers hit ip: ::1
+2024-04-02T16:29:53.279Z - INFO - GET /emails hit ip: ::1
+2024-04-02T16:33:10.418Z - INFO - GET /servers hit ip: ::1
+2024-04-02T16:33:10.544Z - INFO - GET /servers hit ip: ::1
+2024-04-02T16:33:13.826Z - INFO - GET /emails hit ip: ::1
+2024-04-02T16:33:50.113Z - INFO - POST /send hit ip: ::1  SERVER ID: e1efe78b-0dac-4504-ac6e-e54a803fb5db USER ID: [object Object]
+2024-04-02T16:38:26.456Z - INFO - GET /servers hit ip: ::1
+2024-04-02T16:38:26.655Z - INFO - GET /servers hit ip: ::1
+2024-04-02T16:38:28.697Z - INFO - GET /emails hit ip: ::1
+2024-04-02T16:38:49.170Z - INFO - POST /send hit ip: ::1  SERVER ID: c6fcbfc6-20f9-43a0-b7c2-190d7dd30e66 USER ID: [object Object]
+2024-04-02T16:41:30.829Z - INFO - GET /servers hit ip: ::1
+2024-04-02T16:41:30.952Z - INFO - GET /servers hit ip: ::1
+2024-04-02T16:41:33.729Z - INFO - GET /emails hit ip: ::1
+2024-04-02T16:41:51.482Z - INFO - POST /send hit ip: ::1  SERVER ID: 61fbf3bb-90b7-452e-9411-210f96202ac2 USER ID: [object Object]
+2024-04-02T16:56:26.300Z - INFO - GET /servers hit ip: ::1
+2024-04-02T16:56:26.431Z - INFO - GET /servers hit ip: ::1
+2024-04-02T16:56:53.121Z - INFO - GET /emails hit ip: ::1
+2024-04-02T16:56:54.041Z - INFO - GET /emails hit ip: ::1
+2024-04-02T16:56:54.408Z - INFO - GET /emails hit ip: ::1
+2024-04-02T17:35:44.589Z - INFO - GET /servers hit ip: ::1
+2024-04-02T17:35:44.742Z - INFO - GET /servers hit ip: ::1
+2024-04-02T17:35:47.192Z - INFO - GET /emails hit ip: ::1
+2024-04-02T17:37:21.020Z - INFO - GET /servers hit ip: ::1
+2024-04-02T17:37:21.234Z - INFO - GET /servers hit ip: ::1
+2024-04-02T17:37:25.095Z - INFO - GET /emails hit ip: ::1
+2024-04-02T17:37:30.608Z - INFO - GET /emails hit ip: ::1
+2024-04-02T17:38:07.908Z - INFO - POST /send hit ip: ::1  SERVER ID: e18e6169-b8f1-4a01-a07a-acdc15148957 USER ID: [object Object]
+2024-04-02T17:39:22.131Z - INFO - GET /servers hit ip: ::1
+2024-04-02T17:39:22.305Z - INFO - GET /servers hit ip: ::1
+2024-04-02T17:39:24.120Z - INFO - GET /emails hit ip: ::1
+2024-04-02T17:39:42.833Z - INFO - POST /send hit ip: ::1  SERVER ID: 7b669a90-5f07-4818-8c3a-eaf2f165d35b USER ID: [object Object]
+2024-04-02T17:41:34.579Z - INFO - GET /servers hit ip: ::1
+2024-04-02T17:41:34.767Z - INFO - GET /servers hit ip: ::1
+2024-04-03T10:39:30.663Z - INFO - GET /servers hit ip: ::1
+2024-04-03T10:39:31.127Z - INFO - GET /servers hit ip: ::1
+2024-04-04T17:21:47.245Z - INFO - GET /servers hit ip: ::1
+2024-04-04T17:21:47.496Z - INFO - GET /servers hit ip: ::1
+2024-04-04T17:21:54.453Z - INFO - GET /emails hit ip: ::1
+2024-04-04T17:22:02.999Z - INFO - POST /emails/clear server hit ip: ::1
+2024-04-04T17:22:04.633Z - INFO - GET /emails hit ip: ::1
+2024-04-04T17:22:05.746Z - INFO - POST /emails/clear server hit ip: ::1
+2024-04-04T17:22:07.266Z - INFO - GET /emails hit ip: ::1
+2024-04-04T17:22:07.513Z - INFO - GET /emails hit ip: ::1
+2024-04-04T17:22:08.884Z - INFO - POST /emails/clear server hit ip: ::1
+2024-04-04T17:22:09.017Z - INFO - GET /emails hit ip: ::1
+2024-04-04T17:22:11.219Z - INFO - GET /emails hit ip: ::1
+2024-04-04T17:22:12.878Z - INFO - POST /emails/clear server hit ip: ::1
+2024-04-04T17:22:16.180Z - INFO - GET /emails hit ip: ::1
+2024-04-04T17:22:23.151Z - INFO - GET /emails hit ip: ::1
+2024-04-05T10:01:57.038Z - INFO - GET /servers hit ip: ::1
+2024-04-05T10:01:57.297Z - INFO - GET /servers hit ip: ::1
+2024-04-05T10:36:37.464Z - INFO - GET /servers hit ip: ::1
+2024-04-05T10:36:37.561Z - INFO - GET /servers hit ip: ::1
+2024-04-05T10:36:40.569Z - INFO - GET /servers hit ip: ::1
+2024-04-05T10:36:40.675Z - INFO - GET /servers hit ip: ::1
+2024-04-05T23:53:04.781Z - INFO - GET /servers hit ip: ::1
+2024-04-05T23:53:04.926Z - INFO - GET /servers hit ip: ::1
+2024-04-06T02:27:20.557Z - INFO - GET /servers hit ip: ::1
+2024-04-06T02:27:20.719Z - INFO - GET /servers hit ip: ::1
+2024-04-06T03:08:43.485Z - INFO - GET /servers hit ip: ::1
+2024-04-06T03:08:43.589Z - INFO - GET /servers hit ip: ::1
+2024-04-06T14:23:25.546Z - INFO - GET /servers hit ip: ::1
+2024-04-06T14:23:25.727Z - INFO - GET /servers hit ip: ::1
+2024-04-06T14:23:30.442Z - INFO - GET /servers hit ip: ::1
+2024-04-06T14:23:30.562Z - INFO - GET /servers hit ip: ::1
+2024-04-06T14:23:44.112Z - INFO - GET /emails hit ip: ::1
+2024-04-06T14:23:50.820Z - INFO - GET /servers hit ip: ::1
+2024-04-06T14:23:50.916Z - INFO - GET /servers hit ip: ::1
+2024-04-17T15:35:52.528Z - INFO - GET /servers hit ip: ::1
+2024-04-17T15:35:52.726Z - INFO - GET /servers hit ip: ::1
+2024-04-17T16:14:39.607Z - INFO - POST /server hit ip: ::1
+2024-04-17T16:14:39.697Z - INFO - GET /servers hit ip: ::1
+2024-04-17T16:19:49.849Z - INFO - POST /server hit ip: ::1
+2024-04-17T16:19:49.880Z - INFO - GET /servers hit ip: ::1
+2024-04-17T16:21:26.404Z - INFO - POST /server hit ip: ::1
+2024-04-17T16:21:26.430Z - INFO - GET /servers hit ip: ::1
+2024-04-17T16:22:24.332Z - INFO - GET /servers hit ip: ::1
+2024-04-17T16:26:27.508Z - INFO - POST /server hit ip: ::1
+2024-04-17T16:26:27.540Z - INFO - GET /servers hit ip: ::1
+2024-04-17T16:28:25.611Z - INFO - POST /server hit ip: ::1
+2024-04-17T16:28:25.642Z - INFO - GET /servers hit ip: ::1
+2024-04-17T16:29:59.966Z - INFO - POST /server hit ip: ::1
+2024-04-17T16:30:00.000Z - INFO - GET /servers hit ip: ::1
+2024-04-17T16:42:19.125Z - INFO - POST /server hit ip: ::1
+2024-04-17T16:42:19.149Z - INFO - GET /servers hit ip: ::1
+2024-04-17T16:43:58.846Z - INFO - POST /server hit ip: ::1
+2024-04-17T16:43:58.869Z - INFO - GET /servers hit ip: ::1
+2024-04-17T16:45:18.299Z - INFO - POST /server hit ip: ::1
+2024-04-17T16:45:18.323Z - INFO - GET /servers hit ip: ::1
+2024-04-17T16:49:08.270Z - INFO - POST /server hit ip: ::1
+2024-04-17T16:49:10.410Z - INFO - POST /server hit ip: ::1
+2024-04-17T16:49:44.632Z - INFO - POST /server hit ip: ::1
+2024-04-17T16:49:44.653Z - INFO - GET /servers hit ip: ::1
+2024-04-17T16:51:34.015Z - INFO - POST /server hit ip: ::1
+2024-04-17T16:51:34.033Z - INFO - GET /servers hit ip: ::1
+2024-04-17T16:52:57.868Z - INFO - POST /server hit ip: ::1
+2024-04-17T16:52:57.902Z - INFO - GET /servers hit ip: ::1
+2024-04-17T16:56:45.583Z - INFO - POST /server hit ip: ::1
+2024-04-17T16:56:45.605Z - INFO - GET /servers hit ip: ::1
+2024-04-17T16:58:42.465Z - INFO - POST /server hit ip: ::1
+2024-04-17T16:58:42.489Z - INFO - GET /servers hit ip: ::1
+2024-04-17T17:00:11.725Z - INFO - POST /server hit ip: ::1
+2024-04-17T17:00:11.752Z - INFO - GET /servers hit ip: ::1
+2024-04-17T17:41:27.891Z - INFO - POST /server hit ip: ::1
+2024-04-17T17:41:27.919Z - INFO - GET /servers hit ip: ::1
+2024-04-17T17:43:24.996Z - INFO - POST /server hit ip: ::1
+2024-04-17T17:43:25.022Z - INFO - GET /servers hit ip: ::1
+2024-04-17T17:44:57.884Z - INFO - POST /server hit ip: ::1
+2024-04-17T17:44:57.912Z - INFO - GET /servers hit ip: ::1
+2024-04-17T18:02:15.121Z - INFO - GET /servers hit ip: ::1
+2024-04-17T18:02:15.196Z - INFO - GET /servers hit ip: ::1
+2024-04-17T18:02:19.471Z - INFO - GET /emails hit ip: ::1
+2024-04-17T18:04:40.395Z - INFO - GET /servers hit ip: ::1
+2024-04-17T18:04:40.520Z - INFO - GET /servers hit ip: ::1
+2024-04-17T18:04:51.166Z - INFO - GET /emails hit ip: ::1
+2024-04-17T18:05:25.067Z - INFO - GET /servers hit ip: ::1
+2024-04-17T18:05:25.129Z - INFO - GET /servers hit ip: ::1
+2024-04-17T18:05:30.057Z - INFO - GET /emails hit ip: ::1
+2024-04-17T18:06:03.702Z - INFO - GET /emails hit ip: ::1
+2024-04-17T18:06:07.262Z - INFO - GET /servers hit ip: ::1
+2024-04-17T18:06:07.394Z - INFO - GET /servers hit ip: ::1
+2024-04-17T18:06:08.434Z - INFO - GET /emails hit ip: ::1
+2024-04-17T18:06:40.773Z - INFO - GET /servers hit ip: ::1
+2024-04-17T18:06:40.867Z - INFO - GET /servers hit ip: ::1
+2024-04-17T18:06:45.588Z - INFO - GET /emails hit ip: ::1
+2024-04-17T18:07:25.436Z - INFO - GET /servers hit ip: ::1
+2024-04-17T18:07:25.557Z - INFO - GET /servers hit ip: ::1
+2024-04-17T18:07:27.052Z - INFO - GET /emails hit ip: ::1
+2024-04-17T18:08:05.818Z - INFO - GET /servers hit ip: ::1
+2024-04-17T18:08:05.936Z - INFO - GET /servers hit ip: ::1
+2024-04-17T18:08:10.521Z - INFO - GET /emails hit ip: ::1
+2024-04-17T18:08:43.968Z - INFO - GET /servers hit ip: ::1
+2024-04-17T18:08:44.080Z - INFO - GET /servers hit ip: ::1
+2024-04-17T18:08:48.696Z - INFO - GET /emails hit ip: ::1
+2024-04-17T18:09:28.629Z - INFO - GET /emails hit ip: ::1
+2024-04-17T18:11:08.432Z - INFO - GET /servers hit ip: ::1
+2024-04-17T18:11:08.570Z - INFO - GET /servers hit ip: ::1
+2024-04-17T18:11:29.363Z - INFO - GET /emails hit ip: ::1
+2024-04-17T18:12:02.954Z - INFO - GET /emails hit ip: ::1
+2024-04-17T18:12:04.223Z - INFO - GET /emails hit ip: ::1
+2024-04-17T18:12:10.731Z - INFO - POST /emails/clear server hit ip: ::1
+2024-04-17T18:12:21.423Z - INFO - POST /emails/clear server hit ip: ::1
+2024-04-17T18:12:24.164Z - INFO - POST /emails/clear server hit ip: ::1
+2024-04-17T18:12:28.147Z - INFO - POST /emails/clear server hit ip: ::1
+2024-04-17T18:12:28.928Z - INFO - GET /emails hit ip: ::1
+2024-04-17T18:12:40.593Z - INFO - GET /emails hit ip: ::1
+2024-04-17T18:12:41.599Z - INFO - GET /emails hit ip: ::1
+2024-04-17T18:12:44.331Z - INFO - GET /emails hit ip: ::1
+2024-04-17T18:12:46.833Z - INFO - GET /emails hit ip: ::1
+2024-04-17T18:12:47.345Z - INFO - POST /emails/clear server hit ip: ::1
+2024-04-17T18:12:48.294Z - INFO - GET /emails hit ip: ::1
+2024-04-17T18:13:00.986Z - INFO - GET /emails hit ip: ::1
+2024-04-17T18:13:10.865Z - INFO - POST /emails/clear server hit ip: ::1
+2024-04-17T18:13:17.115Z - INFO - GET /emails hit ip: ::1
+2024-04-17T18:13:18.701Z - INFO - POST /emails/clear server hit ip: ::1
+2024-04-17T18:13:25.112Z - INFO - POST /emails/clear server hit ip: ::1
+2024-04-17T18:13:28.550Z - INFO - GET /emails hit ip: ::1
+2024-04-17T18:13:30.061Z - INFO - GET /emails hit ip: ::1
+2024-04-17T18:13:30.704Z - INFO - GET /emails hit ip: ::1
+2024-04-17T18:13:31.340Z - INFO - GET /emails hit ip: ::1
+2024-04-17T18:13:32.242Z - INFO - GET /emails hit ip: ::1
+2024-04-17T18:18:03.955Z - INFO - GET /servers hit ip: ::1
+2024-04-17T18:18:04.137Z - INFO - GET /servers hit ip: ::1
+2024-04-17T18:18:05.869Z - INFO - GET /emails hit ip: ::1
+2024-04-17T18:18:48.294Z - INFO - GET /servers hit ip: ::1
+2024-04-17T18:18:48.474Z - INFO - GET /servers hit ip: ::1
+2024-04-17T18:18:49.632Z - INFO - GET /emails hit ip: ::1
+2024-04-17T18:20:42.764Z - INFO - GET /servers hit ip: ::1
+2024-04-17T18:20:42.973Z - INFO - GET /servers hit ip: ::1
+2024-04-17T18:20:44.312Z - INFO - GET /emails hit ip: ::1
+2024-04-17T18:41:05.590Z - INFO - GET /servers hit ip: ::1
+2024-04-17T18:41:05.904Z - INFO - GET /servers hit ip: ::1
+2024-04-17T18:41:06.688Z - INFO - GET /emails hit ip: ::1
+2024-04-17T18:41:52.220Z - INFO - GET /servers hit ip: ::1
+2024-04-17T18:41:52.412Z - INFO - GET /servers hit ip: ::1
+2024-04-17T18:41:53.471Z - INFO - GET /emails hit ip: ::1
+2024-04-17T18:42:46.367Z - INFO - GET /servers hit ip: ::1
+2024-04-17T18:42:46.602Z - INFO - GET /servers hit ip: ::1
+2024-04-17T18:42:50.242Z - INFO - GET /emails hit ip: ::1
+2024-04-17T18:44:11.654Z - INFO - GET /servers hit ip: ::1
+2024-04-17T18:44:11.947Z - INFO - GET /servers hit ip: ::1
+2024-04-17T18:44:15.998Z - INFO - GET /emails hit ip: ::1
+2024-04-17T18:45:04.210Z - INFO - GET /servers hit ip: ::1
+2024-04-17T18:45:04.478Z - INFO - GET /servers hit ip: ::1
+2024-04-17T18:45:07.198Z - INFO - GET /emails hit ip: ::1
+2024-04-17T18:51:50.700Z - INFO - GET /servers hit ip: ::1
+2024-04-17T18:51:50.945Z - INFO - GET /servers hit ip: ::1
+2024-04-17T18:51:53.540Z - INFO - GET /emails hit ip: ::1
+2024-04-17T19:00:21.638Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:00:21.920Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:00:24.947Z - INFO - GET /emails hit ip: ::1
+2024-04-17T19:00:59.999Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:01:00.265Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:01:09.249Z - INFO - GET /emails hit ip: ::1
+2024-04-17T19:01:42.855Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:01:43.281Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:01:51.656Z - INFO - GET /emails hit ip: ::1
+2024-04-17T19:02:34.033Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:02:34.325Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:02:37.020Z - INFO - GET /emails hit ip: ::1
+2024-04-17T19:06:46.531Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:06:46.941Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:06:49.161Z - INFO - GET /emails hit ip: ::1
+2024-04-17T19:07:31.248Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:07:31.530Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:07:34.355Z - INFO - GET /emails hit ip: ::1
+2024-04-17T19:08:17.682Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:08:17.985Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:08:20.042Z - INFO - GET /emails hit ip: ::1
+2024-04-17T19:10:16.094Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:10:16.477Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:10:25.638Z - INFO - GET /emails hit ip: ::1
+2024-04-17T19:11:08.394Z - INFO - GET /emails hit ip: ::1
+2024-04-17T19:11:11.462Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:11:11.792Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:11:14.697Z - INFO - GET /emails hit ip: ::1
+2024-04-17T19:13:50.215Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:16:57.192Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:17:00.949Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:17:17.471Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:17:29.816Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:17:41.163Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:17:43.166Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:17:50.245Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:18:01.153Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:18:02.394Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:18:18.661Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:18:48.702Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:19:08.212Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:19:52.159Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:19:54.175Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:19:56.185Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:19:59.172Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:20:01.245Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:20:07.185Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:20:11.918Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:20:24.153Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:20:25.909Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:20:30.923Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:21:01.179Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:21:04.149Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:21:06.148Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:23:30.146Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:23:46.169Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:23:48.183Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:23:55.278Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:23:55.571Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:24:01.214Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:24:08.658Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:24:17.617Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:24:49.793Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:24:57.721Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:25:12.700Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:25:16.168Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:27:07.345Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:27:11.811Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:27:12.269Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:27:13.607Z - INFO - GET /emails hit ip: ::1
+2024-04-17T19:28:05.900Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:28:06.334Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:28:25.641Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:28:47.181Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:28:50.165Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:28:53.169Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:28:54.370Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:30:15.158Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:30:40.147Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:30:43.141Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:30:45.176Z - INFO - GET /servers hit ip: ::1
+2024-04-17T19:30:45.664Z - INFO - GET /servers hit ip: ::1
+2024-04-18T18:29:56.546Z - INFO - GET /servers hit ip: ::1
+2024-04-18T18:29:57.131Z - INFO - GET /servers hit ip: ::1
+2024-04-18T19:02:06.682Z - INFO - GET /emails hit ip: ::1
+2024-04-18T19:02:12.753Z - INFO - GET /emails hit ip: ::1
+2024-04-18T19:02:18.736Z - INFO - GET /servers hit ip: ::1
+2024-04-18T19:02:18.984Z - INFO - GET /servers hit ip: ::1
+2024-04-18T19:02:20.271Z - INFO - GET /emails hit ip: ::1
+2024-04-18T19:02:31.929Z - INFO - GET /servers hit ip: ::1
+2024-04-18T19:02:32.188Z - INFO - GET /servers hit ip: ::1
+2024-04-18T19:02:33.367Z - INFO - GET /emails hit ip: ::1
+2024-04-18T19:02:37.631Z - INFO - POST /send hit ip: ::1  SERVER ID: e1efe78b-0dac-4504-ac6e-e54a803fb5db USER ID: [object Object]
+2024-04-18T19:04:44.361Z - INFO - GET /servers hit ip: ::1
+2024-04-18T19:04:44.765Z - INFO - GET /servers hit ip: ::1
+2024-04-18T19:04:49.884Z - INFO - GET /emails hit ip: ::1
+2024-04-18T19:05:10.232Z - INFO - POST /send hit ip: ::1  SERVER ID: 7b669a90-5f07-4818-8c3a-eaf2f165d35b USER ID: [object Object]
+2024-04-18T19:07:00.181Z - INFO - GET /servers hit ip: ::1
+2024-04-18T19:07:00.492Z - INFO - GET /servers hit ip: ::1
+2024-04-18T19:07:03.380Z - INFO - GET /emails hit ip: ::1
+2024-04-18T19:07:08.601Z - INFO - POST /send hit ip: ::1  SERVER ID: 902dc5fa-87b4-4aca-81e5-3e39e3cf8e04 USER ID: [object Object]
+2024-04-18T19:12:56.587Z - INFO - GET /servers hit ip: ::1
+2024-04-18T19:12:56.952Z - INFO - GET /servers hit ip: ::1
+2024-04-18T19:12:58.197Z - INFO - GET /emails hit ip: ::1
+2024-04-18T19:13:23.327Z - INFO - POST /send hit ip: ::1  SERVER ID: e18e6169-b8f1-4a01-a07a-acdc15148957 USER ID: [object Object]
+2024-04-21T16:46:12.093Z - INFO - GET /servers hit ip: ::1
+2024-04-21T16:46:12.888Z - INFO - GET /servers hit ip: ::1
+2024-05-09T15:46:59.171Z - INFO - GET /servers hit ip: ::1
+2024-05-09T15:46:59.799Z - INFO - GET /servers hit ip: ::1
+2024-05-09T15:47:08.892Z - INFO - GET /servers hit ip: ::1
+2024-05-09T15:47:09.562Z - INFO - GET /servers hit ip: ::1
+2024-05-09T15:48:02.076Z - INFO - GET /emails hit ip: ::1
+2024-05-09T15:48:20.930Z - INFO - GET /emails hit ip: ::1
+2024-05-09T18:49:38.013Z - INFO - GET /servers hit ip: ::1
+2024-05-09T18:49:38.791Z - INFO - GET /servers hit ip: ::1
+2024-05-14T16:55:02.935Z - INFO - GET /servers hit ip: ::1
+2024-05-14T16:55:03.596Z - INFO - GET /servers hit ip: ::1
+2024-05-14T17:01:58.131Z - INFO - POST /server hit ip: ::1
+2024-05-14T17:01:58.315Z - INFO - GET /servers hit ip: ::1
+2024-05-14T17:02:40.652Z - INFO - GET /servers hit ip: ::1
+2024-05-14T17:02:41.008Z - INFO - GET /servers hit ip: ::1
+2024-05-14T17:03:00.677Z - INFO - GET /emails hit ip: ::1
+2024-05-14T17:03:01.600Z - INFO - GET /emails hit ip: ::1
+2024-05-14T17:03:10.147Z - INFO - GET /emails hit ip: ::1
+2024-05-14T17:04:27.835Z - INFO - DELETE /server hit ip: ::1
+2024-05-14T17:04:28.021Z - INFO - GET /servers hit ip: ::1
+2024-05-14T17:13:30.095Z - INFO - GET /servers hit ip: ::1
+2024-05-14T17:13:30.561Z - INFO - GET /servers hit ip: ::1
+2024-05-14T17:17:58.907Z - INFO - POST /server hit ip: ::1
+2024-05-14T17:17:59.082Z - INFO - GET /servers hit ip: ::1
+2024-05-14T17:18:30.025Z - INFO - GET /servers hit ip: ::1
+2024-05-14T17:18:30.327Z - INFO - GET /servers hit ip: ::1
+2024-05-14T17:18:43.509Z - INFO - GET /emails hit ip: ::1
+2024-05-14T17:18:44.443Z - INFO - GET /emails hit ip: ::1
+2024-05-14T17:18:50.645Z - INFO - GET /emails hit ip: ::1
+2024-05-14T17:19:28.559Z - INFO - GET /emails hit ip: ::1
+2024-05-14T17:19:34.916Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-14T17:19:35.234Z - INFO - GET /emails hit ip: ::1
+2024-05-14T17:19:39.910Z - INFO - GET /emails hit ip: ::1
+2024-05-14T17:19:42.648Z - INFO - GET /emails hit ip: ::1
+2024-05-14T18:18:41.558Z - INFO - GET /emails hit ip: ::1
+2024-05-14T18:18:43.008Z - INFO - GET /emails hit ip: ::1
+2024-05-14T18:18:58.668Z - INFO - POST /send hit ip: ::1  SERVER ID: 629aaed4-f0dd-42dc-9045-9b2c1d55ec14 USER ID: [object Object]
+2024-05-14T19:51:07.536Z - INFO - GET /servers hit ip: ::1
+2024-05-14T19:51:08.665Z - INFO - GET /servers hit ip: ::1
+2024-05-14T22:56:46.551Z - INFO - GET /servers hit ip: ::1
+2024-05-14T22:56:47.424Z - INFO - GET /servers hit ip: ::1
+2024-05-15T07:39:05.450Z - INFO - GET /servers hit ip: ::1
+2024-05-15T07:39:06.068Z - INFO - GET /servers hit ip: ::1
+2024-05-15T07:39:07.950Z - INFO - GET /servers hit ip: ::1
+2024-05-15T07:39:08.307Z - INFO - GET /servers hit ip: ::1
+2024-05-15T07:58:00.351Z - INFO - GET /servers hit ip: ::1
+2024-05-15T07:58:00.795Z - INFO - GET /servers hit ip: ::1
+2024-05-15T08:23:29.533Z - INFO - GET /servers hit ip: ::1
+2024-05-15T08:23:29.821Z - INFO - GET /servers hit ip: ::1
+2024-05-15T08:26:32.413Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T08:26:33.226Z - INFO - GET /emails hit ip: ::1
+2024-05-15T08:27:48.377Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T08:27:48.691Z - INFO - GET /emails hit ip: ::1
+2024-05-15T08:31:30.599Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T08:31:30.872Z - INFO - GET /emails hit ip: ::1
+2024-05-15T08:32:01.878Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T08:32:02.169Z - INFO - GET /emails hit ip: ::1
+2024-05-15T08:32:39.185Z - INFO - DELETE /server hit ip: ::1
+2024-05-15T08:32:39.381Z - INFO - GET /servers hit ip: ::1
+2024-05-15T08:32:49.783Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T08:32:50.226Z - INFO - GET /emails hit ip: ::1
+2024-05-15T08:32:58.942Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T08:32:59.368Z - INFO - GET /emails hit ip: ::1
+2024-05-15T08:33:07.024Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T08:33:07.463Z - INFO - GET /emails hit ip: ::1
+2024-05-15T08:33:12.152Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T08:33:12.527Z - INFO - GET /emails hit ip: ::1
+2024-05-15T08:33:16.964Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T08:33:17.424Z - INFO - GET /emails hit ip: ::1
+2024-05-15T08:33:20.640Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T08:33:21.107Z - INFO - GET /emails hit ip: ::1
+2024-05-15T08:33:25.054Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T08:33:25.452Z - INFO - GET /emails hit ip: ::1
+2024-05-15T08:33:29.504Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T08:33:29.892Z - INFO - GET /emails hit ip: ::1
+2024-05-15T08:33:37.161Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T08:33:37.633Z - INFO - GET /emails hit ip: ::1
+2024-05-15T08:33:43.916Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T08:33:44.453Z - INFO - GET /emails hit ip: ::1
+2024-05-15T08:33:50.346Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T08:33:50.850Z - INFO - GET /emails hit ip: ::1
+2024-05-15T08:33:54.508Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T08:33:54.845Z - INFO - GET /emails hit ip: ::1
+2024-05-15T08:33:58.248Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T08:33:58.703Z - INFO - GET /emails hit ip: ::1
+2024-05-15T08:34:02.207Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T08:34:02.781Z - INFO - GET /emails hit ip: ::1
+2024-05-15T08:34:06.183Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T08:34:07.115Z - INFO - GET /emails hit ip: ::1
+2024-05-15T08:34:10.760Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T08:34:11.647Z - INFO - GET /emails hit ip: ::1
+2024-05-15T08:34:20.097Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T08:34:20.707Z - INFO - GET /emails hit ip: ::1
+2024-05-15T08:34:23.861Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T08:34:24.520Z - INFO - GET /emails hit ip: ::1
+2024-05-15T08:34:28.792Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T08:34:29.171Z - INFO - GET /emails hit ip: ::1
+2024-05-15T08:34:32.938Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T08:34:33.495Z - INFO - GET /emails hit ip: ::1
+2024-05-15T08:47:14.840Z - INFO - GET /servers hit ip: ::1
+2024-05-15T08:47:15.111Z - INFO - GET /servers hit ip: ::1
+2024-05-15T09:12:00.869Z - INFO - GET /servers hit ip: ::1
+2024-05-15T09:12:01.341Z - INFO - GET /servers hit ip: ::1
+2024-05-15T09:31:00.555Z - INFO - POST /server hit ip: ::1
+2024-05-15T09:31:00.661Z - INFO - GET /servers hit ip: ::1
+2024-05-15T09:35:24.510Z - INFO - DELETE /server hit ip: ::1
+2024-05-15T09:35:24.616Z - INFO - GET /servers hit ip: ::1
+2024-05-15T09:35:35.778Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T09:35:36.873Z - INFO - GET /emails hit ip: ::1
+2024-05-15T09:35:41.295Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T09:35:52.544Z - INFO - GET /emails hit ip: ::1
+2024-05-15T09:41:37.207Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T09:41:37.873Z - INFO - GET /emails hit ip: ::1
+2024-05-15T09:41:44.800Z - INFO - GET /servers hit ip: ::1
+2024-05-15T09:41:45.211Z - INFO - GET /servers hit ip: ::1
+2024-05-15T09:41:50.129Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T09:41:50.350Z - INFO - GET /emails hit ip: ::1
+2024-05-15T09:44:42.486Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T09:44:43.358Z - INFO - GET /emails hit ip: ::1
+2024-05-15T09:44:47.057Z - INFO - GET /servers hit ip: ::1
+2024-05-15T09:44:47.716Z - INFO - GET /servers hit ip: ::1
+2024-05-15T09:46:54.817Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T09:46:55.102Z - INFO - GET /emails hit ip: ::1
+2024-05-15T09:46:58.814Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T09:46:59.882Z - INFO - GET /emails hit ip: ::1
+2024-05-15T09:47:03.694Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T09:47:03.944Z - INFO - GET /emails hit ip: ::1
+2024-05-15T09:47:08.254Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T09:47:08.509Z - INFO - GET /emails hit ip: ::1
+2024-05-15T09:47:13.944Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T09:47:14.203Z - INFO - GET /emails hit ip: ::1
+2024-05-15T09:49:09.430Z - INFO - GET /emails hit ip: ::1
+2024-05-15T09:49:14.148Z - INFO - GET /emails hit ip: ::1
+2024-05-15T09:49:33.989Z - INFO - DELETE /server hit ip: ::1
+2024-05-15T09:49:34.136Z - INFO - GET /servers hit ip: ::1
+2024-05-15T09:49:38.011Z - INFO - GET /emails hit ip: ::1
+2024-05-15T09:49:40.756Z - INFO - GET /emails hit ip: ::1
+2024-05-15T09:49:45.413Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T09:49:45.660Z - INFO - GET /emails hit ip: ::1
+2024-05-15T09:49:50.635Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T09:49:50.892Z - INFO - GET /emails hit ip: ::1
+2024-05-15T09:49:54.923Z - INFO - GET /emails hit ip: ::1
+2024-05-15T10:01:11.073Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T10:01:11.456Z - INFO - GET /emails hit ip: ::1
+2024-05-15T10:01:19.532Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T10:01:27.752Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T10:01:35.451Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T10:01:37.005Z - INFO - GET /emails hit ip: ::1
+2024-05-15T10:01:43.961Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T10:13:24.360Z - INFO - GET /servers hit ip: ::1
+2024-05-15T10:13:24.888Z - INFO - GET /servers hit ip: ::1
+2024-05-15T10:13:34.863Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T10:18:37.854Z - INFO - GET /servers hit ip: ::1
+2024-05-15T10:18:38.253Z - INFO - GET /servers hit ip: ::1
+2024-05-15T10:19:32.073Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T10:19:33.604Z - INFO - GET /emails hit ip: ::1
+2024-05-15T10:20:30.178Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T10:20:30.833Z - INFO - GET /emails hit ip: ::1
+2024-05-15T10:20:47.474Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T10:20:51.149Z - INFO - GET /emails hit ip: ::1
+2024-05-15T10:20:53.765Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T10:21:03.644Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T10:21:04.649Z - INFO - GET /emails hit ip: ::1
+2024-05-15T10:21:08.771Z - INFO - GET /emails hit ip: ::1
+2024-05-15T10:21:09.730Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T10:21:11.929Z - INFO - GET /emails hit ip: ::1
+2024-05-15T10:21:25.163Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T10:21:25.417Z - INFO - GET /emails hit ip: ::1
+2024-05-15T10:24:18.793Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T10:24:19.694Z - INFO - GET /emails hit ip: ::1
+2024-05-15T10:24:25.700Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T10:24:32.214Z - INFO - GET /emails hit ip: ::1
+2024-05-15T10:24:40.170Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T10:24:40.468Z - INFO - GET /emails hit ip: ::1
+2024-05-15T10:24:44.999Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T10:24:47.706Z - INFO - GET /emails hit ip: ::1
+2024-05-15T10:24:57.845Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T10:24:58.077Z - INFO - GET /emails hit ip: ::1
+2024-05-15T10:55:43.541Z - INFO - GET /servers hit ip: ::1
+2024-05-15T10:55:43.858Z - INFO - GET /servers hit ip: ::1
+2024-05-15T10:57:26.491Z - INFO - GET /servers hit ip: ::1
+2024-05-15T10:57:26.721Z - INFO - GET /servers hit ip: ::1
+2024-05-15T10:59:42.041Z - INFO - GET /servers hit ip: ::1
+2024-05-15T10:59:42.348Z - INFO - GET /servers hit ip: ::1
+2024-05-15T11:00:14.877Z - INFO - GET /servers hit ip: ::1
+2024-05-15T11:00:15.167Z - INFO - GET /servers hit ip: ::1
+2024-05-15T11:01:45.777Z - INFO - GET /servers hit ip: ::1
+2024-05-15T11:01:46.129Z - INFO - GET /servers hit ip: ::1
+2024-05-15T11:01:47.333Z - INFO - GET /servers hit ip: ::1
+2024-05-15T11:01:47.629Z - INFO - GET /servers hit ip: ::1
+2024-05-15T11:02:11.946Z - INFO - GET /servers hit ip: ::1
+2024-05-15T11:02:12.214Z - INFO - GET /servers hit ip: ::1
+2024-05-15T11:02:17.422Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:02:25.111Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:02:29.343Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:02:32.449Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:04:10.422Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:04:36.218Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:07:56.660Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T11:07:57.115Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:08:04.295Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T11:08:14.956Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:08:27.403Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T11:08:32.959Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T11:08:33.733Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:08:38.000Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T11:08:40.057Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:08:43.779Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:08:53.748Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T11:08:54.124Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:10:39.302Z - INFO - POST /send hit ip: ::1  SERVER ID: c4fc13a2-79e7-4086-983e-d5b227156220 USER ID: [object Object]
+2024-05-15T11:11:17.391Z - INFO - POST /send hit ip: ::1  SERVER ID: c4fc13a2-79e7-4086-983e-d5b227156220 USER ID: [object Object]
+2024-05-15T11:13:56.043Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:14:07.319Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:15:15.269Z - INFO - GET /servers hit ip: ::1
+2024-05-15T11:15:15.618Z - INFO - GET /servers hit ip: ::1
+2024-05-15T11:15:25.809Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:16:00.593Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T11:16:00.952Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:16:09.687Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T11:16:09.955Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:16:15.974Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T11:16:16.389Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:16:23.530Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T11:16:23.803Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:16:28.420Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T11:16:28.684Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:16:33.058Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T11:16:33.332Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:16:46.692Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T11:16:46.983Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:17:00.634Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T11:17:00.935Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:18:29.237Z - INFO - POST /send hit ip: ::1  SERVER ID: c4fc13a2-79e7-4086-983e-d5b227156220 USER ID: [object Object]
+2024-05-15T11:18:48.339Z - INFO - GET /servers hit ip: ::1
+2024-05-15T11:18:48.843Z - INFO - GET /servers hit ip: ::1
+2024-05-15T11:18:55.239Z - INFO - GET /servers hit ip: ::1
+2024-05-15T11:18:55.505Z - INFO - GET /servers hit ip: ::1
+2024-05-15T11:19:24.894Z - INFO - GET /servers hit ip: ::1
+2024-05-15T11:19:25.186Z - INFO - GET /servers hit ip: ::1
+2024-05-15T11:19:56.040Z - INFO - GET /servers hit ip: ::1
+2024-05-15T11:19:56.315Z - INFO - GET /servers hit ip: ::1
+2024-05-15T11:20:04.866Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T11:20:05.144Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:20:10.422Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T11:20:10.699Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:20:26.287Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T11:20:26.582Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:20:30.947Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T11:20:31.224Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:20:43.489Z - INFO - GET /servers hit ip: ::1
+2024-05-15T11:20:43.749Z - INFO - GET /servers hit ip: ::1
+2024-05-15T11:20:44.990Z - INFO - GET /servers hit ip: ::1
+2024-05-15T11:20:45.271Z - INFO - GET /servers hit ip: ::1
+2024-05-15T11:20:51.987Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T11:20:52.269Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:22:42.227Z - INFO - POST /send hit ip: ::1  SERVER ID: c4fc13a2-79e7-4086-983e-d5b227156220 USER ID: [object Object]
+2024-05-15T11:25:44.636Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:26:04.432Z - INFO - POST /send hit ip: ::1  SERVER ID: c4fc13a2-79e7-4086-983e-d5b227156220 USER ID: [object Object]
+2024-05-15T11:26:05.840Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:26:07.094Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:26:08.385Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:26:09.627Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:26:10.823Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:26:37.236Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:26:52.561Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:26:56.824Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:26:59.559Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:27:04.393Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:32:48.840Z - INFO - GET /servers hit ip: ::1
+2024-05-15T11:32:49.033Z - INFO - GET /servers hit ip: ::1
+2024-05-15T11:46:50.507Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T11:46:51.069Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:47:13.010Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T11:47:13.193Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:47:21.914Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T11:47:24.975Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:47:45.292Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T11:47:45.569Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:47:53.247Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T11:47:58.758Z - INFO - GET /servers hit ip: ::1
+2024-05-15T11:47:58.926Z - INFO - GET /servers hit ip: ::1
+2024-05-15T11:47:59.862Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:48:22.378Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T11:48:22.556Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:48:40.594Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T11:48:40.947Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:48:55.076Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T11:48:55.257Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:48:58.951Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T11:48:59.126Z - INFO - GET /emails hit ip: ::1
+2024-05-15T11:49:15.292Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T11:49:15.496Z - INFO - GET /emails hit ip: ::1
+2024-05-15T12:24:01.497Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T12:24:01.835Z - INFO - GET /emails hit ip: ::1
+2024-05-15T12:25:42.045Z - INFO - GET /emails hit ip: ::1
+2024-05-15T12:26:03.206Z - INFO - GET /emails hit ip: ::1
+2024-05-15T12:26:04.390Z - INFO - GET /emails hit ip: ::1
+2024-05-15T12:26:04.986Z - INFO - POST /send hit ip: ::1  SERVER ID: e18e6169-b8f1-4a01-a07a-acdc15148957 USER ID: [object Object]
+2024-05-15T12:26:05.557Z - INFO - GET /emails hit ip: ::1
+2024-05-15T12:26:06.719Z - INFO - GET /emails hit ip: ::1
+2024-05-15T12:26:07.900Z - INFO - GET /emails hit ip: ::1
+2024-05-15T12:28:09.139Z - INFO - GET /emails hit ip: ::1
+2024-05-15T12:28:09.276Z - INFO - GET /emails hit ip: ::1
+2024-05-15T12:28:14.196Z - INFO - GET /emails hit ip: ::1
+2024-05-15T12:28:24.359Z - INFO - GET /emails hit ip: ::1
+2024-05-15T12:28:28.281Z - INFO - GET /emails hit ip: ::1
+2024-05-15T12:28:32.341Z - INFO - POST /send hit ip: ::1  SERVER ID: e18e6169-b8f1-4a01-a07a-acdc15148957 USER ID: [object Object]
+2024-05-15T16:00:03.810Z - INFO - GET /servers hit ip: ::1
+2024-05-15T16:00:04.291Z - INFO - GET /servers hit ip: ::1
+2024-05-15T16:02:32.928Z - INFO - GET /servers hit ip: ::1
+2024-05-15T16:02:33.657Z - INFO - GET /servers hit ip: ::1
+2024-05-15T16:03:41.855Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T16:03:43.088Z - INFO - GET /emails hit ip: ::1
+2024-05-15T16:04:45.384Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T16:04:46.057Z - INFO - GET /emails hit ip: ::1
+2024-05-15T16:05:00.973Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-15T16:05:01.248Z - INFO - GET /emails hit ip: ::1
+2024-05-15T16:06:48.332Z - INFO - GET /servers hit ip: ::1
+2024-05-15T16:06:48.705Z - INFO - GET /servers hit ip: ::1
+2024-05-15T19:57:20.708Z - INFO - GET /servers hit ip: ::1
+2024-05-15T19:57:21.176Z - INFO - GET /servers hit ip: ::1
+2024-05-15T19:57:30.857Z - INFO - GET /emails hit ip: ::1
+2024-05-15T19:58:33.178Z - INFO - GET /servers hit ip: ::1
+2024-05-15T19:58:33.535Z - INFO - GET /servers hit ip: ::1
+2024-05-15T19:58:41.109Z - INFO - GET /emails hit ip: ::1
+2024-05-15T19:59:10.046Z - INFO - POST /send hit ip: ::1  SERVER ID: e18e6169-b8f1-4a01-a07a-acdc15148957 USER ID: [object Object]
+2024-05-15T20:48:54.124Z - INFO - GET /emails hit ip: ::1
+2024-05-15T20:50:00.183Z - INFO - GET /emails hit ip: ::1
+2024-05-15T20:50:49.470Z - INFO - POST /send hit ip: ::1  SERVER ID: 902dc5fa-87b4-4aca-81e5-3e39e3cf8e04 USER ID: [object Object]
+2024-05-16T06:49:45.510Z - INFO - GET /servers hit ip: ::1
+2024-05-16T06:49:45.705Z - INFO - GET /servers hit ip: ::1
+2024-05-16T09:56:32.513Z - INFO - GET /servers hit ip: ::1
+2024-05-16T09:56:32.998Z - INFO - GET /servers hit ip: ::1
+2024-05-16T09:56:45.955Z - INFO - GET /emails hit ip: ::1
+2024-05-16T10:11:50.101Z - INFO - GET /emails hit ip: ::1
+2024-05-16T10:12:25.739Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-16T10:12:26.552Z - INFO - GET /emails hit ip: ::1
+2024-05-16T10:12:33.725Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-16T10:12:39.125Z - INFO - GET /emails hit ip: ::1
+2024-05-16T10:12:50.838Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-16T10:12:51.326Z - INFO - GET /emails hit ip: ::1
+2024-05-16T10:13:04.300Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-16T10:13:04.621Z - INFO - GET /emails hit ip: ::1
+2024-05-16T10:13:17.305Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-16T10:13:17.730Z - INFO - GET /emails hit ip: ::1
+2024-05-16T10:32:10.210Z - INFO - POST /send hit ip: ::1  SERVER ID: e18e6169-b8f1-4a01-a07a-acdc15148957 USER ID: [object Object]
+2024-05-16T10:37:11.688Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-16T10:37:12.660Z - INFO - GET /emails hit ip: ::1
+2024-05-16T10:37:29.923Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-16T10:37:36.305Z - INFO - GET /emails hit ip: ::1
+2024-05-16T10:37:43.065Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-16T10:37:48.671Z - INFO - GET /emails hit ip: ::1
+2024-05-16T10:37:54.864Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-16T10:37:55.157Z - INFO - GET /emails hit ip: ::1
+2024-05-16T10:38:03.994Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-16T10:38:04.284Z - INFO - GET /emails hit ip: ::1
+2024-05-16T10:57:40.183Z - INFO - GET /servers hit ip: ::1
+2024-05-16T10:57:40.698Z - INFO - GET /servers hit ip: ::1
+2024-05-16T10:57:45.513Z - INFO - GET /emails hit ip: ::1
+2024-05-16T10:59:37.357Z - INFO - POST /send hit ip: ::1  SERVER ID: c4fc13a2-79e7-4086-983e-d5b227156220 USER ID: [object Object]
+2024-05-16T11:05:57.156Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-16T11:05:57.766Z - INFO - GET /emails hit ip: ::1
+2024-05-16T11:23:05.005Z - INFO - GET /emails hit ip: ::1
+2024-05-16T11:24:59.069Z - INFO - POST /send hit ip: ::1  SERVER ID: 902dc5fa-87b4-4aca-81e5-3e39e3cf8e04 USER ID: [object Object]
+2024-05-17T07:39:49.275Z - INFO - GET /servers hit ip: ::1
+2024-05-17T07:39:49.564Z - INFO - GET /servers hit ip: ::1
+2024-05-17T07:40:13.980Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-17T07:40:14.963Z - INFO - GET /emails hit ip: ::1
+2024-05-17T07:40:32.246Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-17T07:40:32.503Z - INFO - GET /emails hit ip: ::1
+2024-05-17T13:32:55.495Z - INFO - GET /servers hit ip: ::1
+2024-05-17T13:32:55.853Z - INFO - GET /servers hit ip: ::1
+2024-05-17T13:33:04.046Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-17T13:33:04.740Z - INFO - GET /emails hit ip: ::1
+2024-05-17T13:33:32.262Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-17T13:33:32.582Z - INFO - GET /emails hit ip: ::1
+2024-05-17T13:34:09.954Z - INFO - GET /servers hit ip: ::1
+2024-05-17T13:34:10.152Z - INFO - GET /servers hit ip: ::1
+2024-05-17T13:34:22.647Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-17T13:34:23.063Z - INFO - GET /emails hit ip: ::1
+2024-05-17T13:34:43.943Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-17T13:34:44.181Z - INFO - GET /emails hit ip: ::1
+2024-05-17T13:35:01.602Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-17T13:35:02.439Z - INFO - GET /emails hit ip: ::1
+2024-05-17T13:35:05.092Z - INFO - GET /emails hit ip: ::1
+2024-05-17T13:35:09.524Z - INFO - GET /emails hit ip: ::1
+2024-05-17T13:35:14.962Z - INFO - GET /emails hit ip: ::1
+2024-05-17T13:35:37.273Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-17T13:35:37.506Z - INFO - GET /emails hit ip: ::1
+2024-05-17T13:35:53.168Z - INFO - GET /emails hit ip: ::1
+2024-05-17T13:39:26.956Z - INFO - GET /emails hit ip: ::1
+2024-05-17T13:39:30.590Z - INFO - GET /servers hit ip: ::1
+2024-05-17T13:39:30.828Z - INFO - GET /servers hit ip: ::1
+2024-05-17T13:40:35.282Z - INFO - GET /servers hit ip: ::1
+2024-05-17T13:40:35.495Z - INFO - GET /servers hit ip: ::1
+2024-05-17T13:40:39.690Z - INFO - GET /emails hit ip: ::1
+2024-05-17T13:42:41.596Z - INFO - GET /emails hit ip: ::1
+2024-05-17T13:42:43.978Z - INFO - GET /emails hit ip: ::1
+2024-05-17T13:43:28.321Z - INFO - GET /emails hit ip: ::1
+2024-05-17T13:43:33.573Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-17T13:43:34.095Z - INFO - GET /emails hit ip: ::1
+2024-05-17T13:44:38.289Z - INFO - GET /emails hit ip: ::1
+2024-05-17T13:44:48.221Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-17T13:44:49.232Z - INFO - GET /emails hit ip: ::1
+2024-05-17T13:45:08.810Z - INFO - GET /emails hit ip: ::1
+2024-05-17T13:45:16.289Z - INFO - GET /emails hit ip: ::1
+2024-05-17T13:45:24.746Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-17T13:45:27.127Z - INFO - GET /emails hit ip: ::1
+2024-05-17T13:45:53.212Z - INFO - GET /servers hit ip: ::1
+2024-05-17T13:45:53.373Z - INFO - GET /servers hit ip: ::1
+2024-05-17T13:45:58.212Z - INFO - GET /emails hit ip: ::1
+2024-05-17T13:46:30.472Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-17T13:46:30.679Z - INFO - GET /emails hit ip: ::1
+2024-05-17T13:46:55.876Z - INFO - GET /emails hit ip: ::1
+2024-05-17T13:47:15.079Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-17T13:47:18.014Z - INFO - GET /emails hit ip: ::1
+2024-05-17T13:47:35.508Z - INFO - GET /emails hit ip: ::1
+2024-05-17T13:47:37.432Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-17T13:47:50.671Z - INFO - GET /emails hit ip: ::1
+2024-05-17T13:48:23.107Z - INFO - GET /emails hit ip: ::1
+2024-05-17T13:48:40.031Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-17T13:48:40.358Z - INFO - GET /emails hit ip: ::1
+2024-05-17T13:48:45.316Z - INFO - GET /servers hit ip: ::1
+2024-05-17T13:48:45.509Z - INFO - GET /servers hit ip: ::1
+2024-05-17T13:48:49.168Z - INFO - GET /emails hit ip: ::1
+2024-05-17T13:48:58.226Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-17T13:48:58.415Z - INFO - GET /emails hit ip: ::1
+2024-05-17T13:49:26.992Z - INFO - GET /emails hit ip: ::1
+2024-05-17T13:49:40.245Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-17T13:49:40.441Z - INFO - GET /emails hit ip: ::1
+2024-05-17T13:49:57.495Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-17T13:49:57.760Z - INFO - GET /emails hit ip: ::1
+2024-05-17T13:50:45.768Z - INFO - GET /emails hit ip: ::1
+2024-05-17T13:51:04.059Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-17T13:51:04.423Z - INFO - GET /emails hit ip: ::1
+2024-05-17T13:51:12.768Z - INFO - GET /servers hit ip: ::1
+2024-05-17T13:51:12.986Z - INFO - GET /servers hit ip: ::1
+2024-05-17T13:51:30.288Z - INFO - GET /emails hit ip: ::1
+2024-05-17T13:51:48.953Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-17T13:51:49.223Z - INFO - GET /emails hit ip: ::1
+2024-05-17T13:53:20.072Z - INFO - GET /emails hit ip: ::1
+2024-05-17T13:53:49.912Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-17T13:53:50.302Z - INFO - GET /emails hit ip: ::1
+2024-05-17T13:55:11.805Z - INFO - GET /emails hit ip: ::1
+2024-05-17T13:59:10.193Z - INFO - GET /emails hit ip: ::1
+2024-05-17T13:59:19.230Z - INFO - GET /emails hit ip: ::1
+2024-05-17T13:59:24.142Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-17T13:59:24.299Z - INFO - GET /emails hit ip: ::1
+2024-05-17T13:59:36.755Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-17T13:59:36.910Z - INFO - GET /emails hit ip: ::1
+2024-05-17T17:31:50.692Z - INFO - GET /servers hit ip: ::1
+2024-05-17T17:31:51.025Z - INFO - GET /servers hit ip: ::1
+2024-05-17T17:31:52.613Z - INFO - GET /servers hit ip: ::1
+2024-05-17T17:31:52.882Z - INFO - GET /servers hit ip: ::1
+2024-05-17T17:47:16.187Z - INFO - GET /emails hit ip: ::1
+2024-05-17T17:47:41.249Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-17T17:47:41.879Z - INFO - GET /emails hit ip: ::1
+2024-05-17T17:48:05.321Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-17T17:48:05.550Z - INFO - GET /emails hit ip: ::1
+2024-05-17T18:26:37.440Z - INFO - GET /emails hit ip: ::1
+2024-05-17T18:50:10.968Z - INFO - POST /send hit ip: ::1  SERVER ID: 902dc5fa-87b4-4aca-81e5-3e39e3cf8e04 USER ID: [object Object]
+2024-05-17T18:52:49.445Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-17T18:52:49.682Z - INFO - GET /emails hit ip: ::1
+2024-05-17T18:53:03.762Z - INFO - GET /emails hit ip: ::1
+2024-05-17T18:53:09.155Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-17T18:53:12.455Z - INFO - GET /emails hit ip: ::1
+2024-05-17T18:53:22.948Z - INFO - GET /emails hit ip: ::1
+2024-05-17T18:53:30.275Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-17T18:53:30.420Z - INFO - GET /emails hit ip: ::1
+2024-05-17T18:54:36.279Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-17T18:54:36.573Z - INFO - GET /emails hit ip: ::1
+2024-05-17T18:54:49.673Z - INFO - GET /emails hit ip: ::1
+2024-05-17T18:54:53.122Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-17T18:54:58.684Z - INFO - GET /emails hit ip: ::1
+2024-05-17T18:55:20.715Z - INFO - GET /emails hit ip: ::1
+2024-05-17T18:55:30.639Z - INFO - GET /emails hit ip: ::1
+2024-05-17T19:19:11.362Z - INFO - GET /servers hit ip: ::1
+2024-05-17T19:19:11.473Z - INFO - GET /servers hit ip: ::1
+2024-05-17T19:21:02.233Z - INFO - POST /send hit ip: ::1  SERVER ID: e18e6169-b8f1-4a01-a07a-acdc15148957 USER ID: [object Object]
+2024-05-17T19:27:25.862Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-17T19:27:26.001Z - INFO - GET /emails hit ip: ::1
+2024-05-17T19:37:24.565Z - INFO - GET /emails hit ip: ::1
+2024-05-17T19:53:34.933Z - INFO - GET /servers hit ip: ::1
+2024-05-17T19:53:35.047Z - INFO - GET /servers hit ip: ::1
+2024-05-17T19:53:40.551Z - INFO - GET /emails hit ip: ::1
+2024-05-17T19:54:29.545Z - INFO - POST /send hit ip: ::1  SERVER ID: c6fcbfc6-20f9-43a0-b7c2-190d7dd30e66 USER ID: [object Object]
+2024-05-17T19:55:49.607Z - INFO - GET /servers hit ip: ::1
+2024-05-17T19:55:49.737Z - INFO - GET /servers hit ip: ::1
+2024-05-17T19:55:56.704Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-17T19:55:56.871Z - INFO - GET /emails hit ip: ::1
+2024-05-17T19:56:09.633Z - INFO - GET /emails hit ip: ::1
+2024-05-17T19:56:51.425Z - INFO - GET /emails hit ip: ::1
+2024-05-17T19:56:55.266Z - INFO - GET /emails hit ip: ::1
+2024-05-17T19:56:56.463Z - INFO - GET /emails hit ip: ::1
+2024-05-17T19:57:16.218Z - INFO - GET /emails hit ip: ::1
+2024-05-17T19:59:12.733Z - INFO - POST /send hit ip: ::1  SERVER ID: 61fbf3bb-90b7-452e-9411-210f96202ac2 USER ID: [object Object]
+2024-05-17T20:00:25.405Z - INFO - DELETE /server hit ip: ::1
+2024-05-17T20:00:25.486Z - INFO - GET /servers hit ip: ::1
+2024-05-17T20:00:32.299Z - INFO - DELETE /server hit ip: ::1
+2024-05-17T20:00:32.361Z - INFO - GET /servers hit ip: ::1
+2024-05-17T20:02:11.078Z - INFO - GET /emails hit ip: ::1
+2024-05-17T20:07:37.407Z - INFO - GET /servers hit ip: ::1
+2024-05-17T20:07:37.493Z - INFO - GET /servers hit ip: ::1
+2024-05-17T20:20:57.623Z - INFO - GET /servers hit ip: ::1
+2024-05-17T20:20:57.728Z - INFO - GET /servers hit ip: ::1
+2024-05-17T20:21:55.000Z - INFO - POST /send hit ip: ::1  SERVER ID: 2ca2512e-5e1d-4c54-9aae-7c82adb022d2 USER ID: [object Object]
+2024-05-17T20:29:30.645Z - INFO - POST /emails/clear server hit ip: ::1
+2024-05-17T20:29:30.779Z - INFO - GET /emails hit ip: ::1
+2024-05-17T20:29:43.141Z - INFO - GET /emails hit ip: ::1
+2024-05-17T20:29:44.846Z - INFO - GET /emails hit ip: ::1
+2024-05-17T20:30:18.751Z - INFO - GET /emails hit ip: ::1
+2024-05-18T07:23:50.154Z - INFO - GET /servers hit ip: ::1
+2024-05-18T07:23:50.382Z - INFO - GET /servers hit ip: ::1
+2024-05-18T07:23:52.873Z - INFO - GET /emails hit ip: ::1
+2024-05-18T07:37:58.509Z - INFO - GET /emails hit ip: ::1
+2024-05-18T07:40:22.752Z - INFO - GET /emails hit ip: ::1
+2024-05-18T07:54:37.619Z - INFO - GET /servers hit ip: ::1
+2024-05-18T07:54:37.748Z - INFO - GET /servers hit ip: ::1
+2024-05-18T07:55:23.687Z - INFO - POST /send hit ip: ::1  SERVER ID: 75142ee9-7e8a-40d8-910c-4fc20b0c27e9 USER ID: [object Object]
+2024-06-07T02:54:37.787Z - INFO - GET /servers hit ip: ::1
+2024-06-07T02:54:37.884Z - INFO - GET /servers hit ip: ::1
+2024-06-07T02:56:18.717Z - INFO - GET /servers hit ip: ::1
+2024-06-07T02:56:18.938Z - INFO - GET /servers hit ip: ::1
+2024-06-07T02:56:23.920Z - INFO - GET /emails hit ip: ::1
+2024-06-07T02:56:26.124Z - INFO - GET /emails hit ip: ::1
+2024-06-07T02:56:27.930Z - INFO - GET /emails hit ip: ::1
+2024-06-07T02:56:29.004Z - INFO - GET /emails hit ip: ::1
+2024-06-07T02:56:30.032Z - INFO - GET /emails hit ip: ::1
+2024-06-07T02:56:31.356Z - INFO - GET /emails hit ip: ::1
+2024-06-07T02:56:33.276Z - INFO - GET /emails hit ip: ::1
+2024-06-07T02:56:34.428Z - INFO - GET /emails hit ip: ::1
+2024-06-07T02:56:35.263Z - INFO - GET /emails hit ip: ::1
+2024-06-07T02:56:36.612Z - INFO - GET /emails hit ip: ::1
+2024-06-07T02:56:37.408Z - INFO - GET /emails hit ip: ::1
+2024-06-07T02:56:38.564Z - INFO - GET /emails hit ip: ::1
+2024-06-07T02:56:41.492Z - INFO - GET /emails hit ip: ::1
+2024-06-07T02:56:43.288Z - INFO - GET /emails hit ip: ::1
+2024-06-07T02:56:44.402Z - INFO - GET /emails hit ip: ::1
+2024-06-07T02:56:46.424Z - INFO - GET /emails hit ip: ::1
+2024-06-07T02:56:48.173Z - INFO - GET /emails hit ip: ::1
+2024-06-07T02:57:38.091Z - INFO - GET /emails hit ip: ::1
+2024-06-07T02:57:39.060Z - INFO - GET /emails hit ip: ::1
+2024-06-07T02:57:41.298Z - INFO - GET /emails hit ip: ::1
+2024-06-07T02:57:42.535Z - INFO - GET /emails hit ip: ::1
+2024-06-07T02:57:43.380Z - INFO - GET /emails hit ip: ::1
+2024-06-07T02:57:44.003Z - INFO - GET /emails hit ip: ::1
+2024-06-07T02:57:44.579Z - INFO - GET /emails hit ip: ::1
+2024-06-07T03:02:56.431Z - INFO - GET /servers hit ip: ::1
+2024-06-07T03:02:56.526Z - INFO - GET /servers hit ip: ::1
+2024-06-07T03:02:57.614Z - INFO - GET /servers hit ip: ::1
+2024-06-07T03:02:57.709Z - INFO - GET /servers hit ip: ::1
+2024-06-07T03:06:23.960Z - INFO - GET /emails hit ip: ::1
+2024-06-07T03:06:26.181Z - INFO - GET /emails hit ip: ::1
+2024-06-07T03:11:39.622Z - INFO - GET /servers hit ip: ::1
+2024-06-07T03:14:08.749Z - INFO - GET /servers hit ip: ::1
+2024-06-07T03:14:08.936Z - INFO - GET /servers hit ip: ::1
+2024-06-07T03:14:11.446Z - INFO - GET /emails hit ip: ::1
+2024-06-07T03:14:14.641Z - INFO - GET /emails hit ip: ::1
+2024-06-07T03:14:17.040Z - INFO - GET /emails hit ip: ::1
+2024-06-07T03:14:18.905Z - INFO - GET /emails hit ip: ::1
+2024-06-07T03:14:20.054Z - INFO - GET /emails hit ip: ::1
+2024-06-07T03:14:39.048Z - INFO - GET /emails hit ip: ::1
+2024-06-07T03:14:41.131Z - INFO - GET /emails hit ip: ::1
+2024-06-07T03:14:58.690Z - INFO - GET /emails hit ip: ::1
+2024-06-07T03:14:59.638Z - INFO - GET /emails hit ip: ::1
+2024-06-07T03:15:00.885Z - INFO - GET /emails hit ip: ::1
+2024-06-07T03:15:02.263Z - INFO - GET /emails hit ip: ::1
+2024-06-07T03:15:05.239Z - INFO - GET /emails hit ip: ::1
+2024-06-07T03:15:11.209Z - INFO - GET /emails hit ip: ::1
+2024-06-07T03:15:17.486Z - INFO - GET /servers hit ip: ::1
+2024-06-07T03:15:18.428Z - INFO - GET /servers hit ip: ::1
+2024-06-07T03:15:20.779Z - INFO - GET /emails hit ip: ::1
+2024-06-07T03:15:27.179Z - INFO - GET /emails hit ip: ::1
+2024-06-07T03:16:20.398Z - INFO - GET /emails hit ip: ::1
+2024-06-07T03:23:19.183Z - INFO - GET /servers hit ip: ::1
+2024-06-07T03:23:19.287Z - INFO - GET /servers hit ip: ::1
+2024-06-07T03:23:22.622Z - INFO - GET /emails hit ip: ::1
+2024-06-07T03:23:24.512Z - INFO - GET /emails hit ip: ::1
+2024-06-07T03:28:37.967Z - INFO - GET /servers hit ip: ::1
+2024-06-07T03:28:38.132Z - INFO - GET /servers hit ip: ::1
+2024-06-07T03:28:39.664Z - INFO - GET /servers hit ip: ::1
+2024-06-07T03:28:39.780Z - INFO - GET /servers hit ip: ::1
+2024-06-07T03:28:43.998Z - INFO - GET /emails hit ip: ::1
+2024-06-07T03:28:59.882Z - INFO - GET /emails hit ip: ::1
+2024-06-07T03:32:31.266Z - INFO - GET /servers hit ip: ::1
+2024-06-07T03:32:31.413Z - INFO - GET /servers hit ip: ::1
+2024-06-07T03:33:30.296Z - INFO - GET /servers hit ip: ::1
+2024-06-07T03:33:30.434Z - INFO - GET /servers hit ip: ::1
+2024-06-07T03:33:36.881Z - INFO - GET /servers hit ip: ::1
+2024-06-07T03:33:37.134Z - INFO - GET /servers hit ip: ::1
+2024-06-07T03:33:41.435Z - INFO - GET /emails hit ip: ::1
+2024-06-07T03:33:51.568Z - INFO - GET /emails hit ip: ::1
+2024-06-07T03:35:15.645Z - INFO - POST /server hit ip: ::1
+2024-06-07T03:35:15.746Z - INFO - GET /servers hit ip: ::1
+2024-06-07T03:36:00.356Z - INFO - GET /emails hit ip: ::1
+2024-06-07T03:38:40.816Z - INFO - GET /servers hit ip: ::1
+2024-06-07T03:38:41.685Z - INFO - GET /servers hit ip: ::1
+2024-06-07T03:38:42.636Z - INFO - GET /servers hit ip: ::1
+2024-06-07T03:38:42.938Z - INFO - GET /servers hit ip: ::1
+2024-06-07T05:34:55.307Z - INFO - GET /servers hit ip: ::1
+2024-06-07T05:34:55.368Z - INFO - GET /servers hit ip: ::1
+2024-06-08T21:15:01.297Z - INFO - GET /servers hit ip: ::1
+2024-06-08T21:15:01.407Z - INFO - GET /servers hit ip: ::1
+2024-06-08T22:44:31.990Z - INFO - GET /servers hit ip: ::1
+2024-06-08T22:44:32.382Z - INFO - GET /servers hit ip: ::1
+2024-06-08T22:44:36.194Z - INFO - GET /servers hit ip: ::1
+2024-06-08T22:44:36.414Z - INFO - GET /servers hit ip: ::1
+2024-06-08T22:44:41.121Z - INFO - GET /emails hit ip: ::1
+2024-06-08T22:48:05.524Z - INFO - GET /servers hit ip: ::1
+2024-06-08T22:48:05.621Z - INFO - GET /servers hit ip: ::1
+2024-06-08T22:51:16.559Z - INFO - GET /emails hit ip: ::1
+2024-06-08T23:11:23.016Z - INFO - GET /servers hit ip: ::1
+2024-06-08T23:11:23.329Z - INFO - GET /servers hit ip: ::1
+2024-06-08T23:13:33.062Z - INFO - POST /server hit ip: ::1
+2024-06-08T23:13:33.180Z - INFO - GET /servers hit ip: ::1
+2024-06-08T23:13:50.250Z - INFO - GET /emails hit ip: ::1
+2024-06-08T23:26:40.165Z - INFO - GET /servers hit ip: ::1
+2024-06-08T23:26:40.705Z - INFO - GET /servers hit ip: ::1
+2024-06-08T23:26:43.482Z - INFO - GET /emails hit ip: ::1
+2024-06-08T23:27:50.020Z - INFO - POST /server hit ip: ::1
+2024-06-08T23:27:50.133Z - INFO - GET /servers hit ip: ::1
+2024-06-08T23:28:01.468Z - INFO - GET /emails hit ip: ::1
+2024-06-08T23:28:40.298Z - INFO - GET /emails hit ip: ::1
+2024-06-08T23:33:52.058Z - INFO - GET /servers hit ip: ::1
+2024-06-08T23:37:25.299Z - INFO - GET /servers hit ip: ::1
+2024-06-08T23:37:25.311Z - INFO - GET /servers hit ip: ::1
+2024-06-08T23:38:19.150Z - INFO - POST /server hit ip: ::1
+2024-06-08T23:38:19.192Z - INFO - GET /servers hit ip: ::1
+2024-06-08T23:38:30.161Z - INFO - GET /emails hit ip: ::1
+2024-07-12T19:22:54.705Z - INFO - GET /servers hit ip: ::1
+2024-07-12T19:22:54.748Z - INFO - GET /servers hit ip: ::1
+2024-07-12T19:24:40.476Z - INFO - GET /servers hit ip: ::1
+2024-07-12T19:24:40.520Z - INFO - GET /servers hit ip: ::1
